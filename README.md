@@ -91,8 +91,6 @@ Oh, and here's a golden rule – always give your system a 'Clean Snapshot' (Cmd
 
 ## SETTING UP OPENCORE GUI
 
-![multiboot](img/28160023.png)
-
 Fancy a little style upgrade for your Opencore setup? 🌟 I'm here to spill the beans on how you can make it look as sleek as a sports car!
 
 First things first, Opencore is all about performance, but that doesn't mean it can't look dapper too. Themes are your new best friend, and you can dive into the world of aesthetics right here: [THEMES ARE FULLY SUPPORTED.](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencore-s-gui) 
