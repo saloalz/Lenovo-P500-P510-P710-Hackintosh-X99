@@ -13,31 +13,18 @@ Oh, and one quick tip – if your BIOS is feeling a bit outdated, go ahead and g
 
 And don't worry, I've hidden some secrets in there (like Serial Numbers, MLB, ROM... shhh!). Just make sure you tweak your Config.plist to keep things on the down-low. 🤫💻✨
 
-<p align="center"> <img width="750" height="650" src="img/main.jpg"> </p>
 <p align="center"> <img src="img/2.png"> </p>
+<p align="center"> <img width="750" height="650" src="img/main.jpg"> </p>
 
 
-## Table of Contents
-<!-- AUTO-GENERATED-CONTENT:START (TOC:collapse=true&collapseText="Click to expand") -->
-<details>
-<summary>CLICK TO EXPAND</summary>
-  
-* [THE BUILD](#the-build)
-* [BIOS SETTING](#bios-setting)
-* [TOOLS USED](#tools-used)
-* [MISCELLANEOUS](#miscellaneous)
-* [POST INSTALL VOLUME PATCH](#post-install-volume-patch)
-* [SETTING UP OPENCORE GUI](#setting-up-opencore-gui)
-* [CREDITS](#credits)
+## GEEKBENCH RESULTS
 
-</details>
-<!-- AUTO-GENERATED-CONTENT:END -->
-
-
-<p align="center"> <img src="img/3.png"> </p>
+<p align="center"> <img src="img/geekbench.png"> </p>
 
 
 ## THE BUILD
+
+<p align="center"> <img src="img/os.png"> </p>
 
 * **CPU:** Intel(R) Xeon(R) CPU E5-2620 v4 @ 2.10GHz
 * **Motherboard:** Lenovo OME
@@ -47,6 +34,8 @@ And don't worry, I've hidden some secrets in there (like Serial Numbers, MLB, RO
 * **Power Supply:** [Lenovo OEM 650W](https://www.lenovo.com/medias/ThinkStation-P510-Datasheet-November-2016.pdf?context=bWFzdGVyfHJvb3R8OTYwOTUyfGFwcGxpY2F0aW9uL3BkZnxoODEvaDllLzk0NTk1NDYyNTk0ODYucGRmfDFjYTU0NzI1NjJkM2VlMTg2NmMwMTBjZjNjYjdlNWQxZTg0OTQ0YjI2MWZiYzgwNGY2NWVmNGQ3ZTdiNmFjZTI)
 * **Case:** Lenovo OEM
 * **Audio:** Realtek ALC662
+
+<p align="center"> <img src="img/3.png"> </p>
 
 ## UEFI SETTING
 
@@ -58,6 +47,26 @@ And don't worry, I've hidden some secrets in there (like Serial Numbers, MLB, RO
 * Intel VT: `Enabled`
 * Secure boot: `Disabled`
 * Fast boot: `Disabled`
+
+## Kexts used:
+
+- [x] Airportitlwm.kext
+- [x] AppleALC.kext
+- [x] AppleMCEReporterDisabler.kext
+- [x] BlueToolFixup.kext
+- [x] CouTscSync.kext
+- [x] IntelBluetoothFirmware.kext
+- [x] IntelBTPatcher.kext
+- [x] IntelMausi.kext
+- [x] Lilu.kext
+- [x] NVMeFix.kext
+- [x] RealtekRTL8111.kext
+- [x] RestrictEvents.kext
+- [x] SMCProcessor.kext
+- [x] SMCSuperIO.kext
+- [x] VirtualSMC.kext
+- [x] WhateverGreen.kext
+- [x] X99-XHCI.kext
 
 
 ## TOOLS USED
