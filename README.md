@@ -14,7 +14,7 @@ Oh, and one quick tip – if your BIOS is feeling a bit outdated, go ahead and g
 And don't worry, I've hidden some secrets in there (like Serial Numbers, MLB, ROM... shhh!). Just make sure you tweak your Config.plist to keep things on the down-low. 🤫💻✨
 
 <p align="center"> <img width="750" height="650" src="img/main.jpg"> </p>
-<p align="center"> <img src="img/about2.png"> </p>
+<p align="center"> <img src="img/2.png"> </p>
 
 
 ## Table of Contents
@@ -34,6 +34,7 @@ And don't worry, I've hidden some secrets in there (like Serial Numbers, MLB, RO
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 
+<p align="center"> <img src="img/3.png"> </p>
 
 
 ## THE BUILD
